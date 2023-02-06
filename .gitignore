@@ -1,0 +1,11 @@
+# pycharm files
+.idea
+.DS_Store
+
+# important config files
+quant-db/config/config_files/*.json
+quant-db/config/config.ini
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
